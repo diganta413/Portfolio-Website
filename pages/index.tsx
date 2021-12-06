@@ -5,7 +5,6 @@ const page: NextPage = () => {
 	return (
 		<div>
 			<Navbar/>
-			Index
 		</div>
 	)
 }
