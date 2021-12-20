@@ -5,7 +5,7 @@ function navbar() {
         <nav className="flex shadow-lg mb-10 text-navBar opacity-75">
             <div className="flex ml-10 mt-6 text-5xl text-outline">D </div>
             <div className="flex space-x-10 ml-auto mr-10 mt-10">
-                <a className="ml-20 text-2xl cursor-pointer hover:underline">
+                <a className="ml-20 text-2xl cursor-pointer hover:underline ">
                     About
                 </a>
                 <a className="text-2xl cursor-pointer hover:underline">Work</a>
