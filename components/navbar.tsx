@@ -2,7 +2,8 @@ import React from "react";
 
 function navbar() {
     return (
-        <nav className="flex shadow-lg mb-10 text-navBar opacity-75">
+        <nav className="flex shadow-2xl mb-10 text-navBar opacity-75 fixed top-0 z-50 left-0 right-0 
+		backdrop-blur-xl">
             <div className="flex ml-10 mt-6 text-5xl text-outline">D </div>
             <div className="flex space-x-10 ml-auto mr-10 mt-10">
                 <a className="ml-20 text-2xl cursor-pointer hover:underline ">

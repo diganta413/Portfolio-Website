@@ -1,7 +1,7 @@
 
 const Info = ():JSX.Element => {
 		return (
-			<div className="ml-30 mt-15">
+			<div className="ml-[25%] mt-15">
 				<p className="text-outline text-xl ml-2 font-thin">Hi, my name is</p>
 				<p className="text-navBar text-7xl mt-5 font-bold">Diganta Ghosh.</p>
 				<p className="text-textLight text-7xl font-bold mt-5">I build things for the web.</p>
